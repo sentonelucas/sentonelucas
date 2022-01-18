@@ -1,13 +1,9 @@
 ##  Hi! my name is Lucas
 
-I’m currently working as a data engineer
-Learning Kafka, Databricks and scala
-Contact me by email: lucas.sentone@gmail.com
-
 <div align="center">
   <a href="https://github.com/sentonelucas">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=sentonelucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sentonelucas&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sentonelucas&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sentonelucas&layout=compact&langs_count=7&theme=dark"/>
 </div>
   </div>
 <div style="display: inline_block"><br>
@@ -24,8 +20,10 @@ Contact me by email: lucas.sentone@gmail.com
 </div>
 
 ##
+
 <div> 
   <a href="https://www.linkedin.com/in/lucas-sentone-05482116b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:contatolucas.sentone@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div> 
   
  ![Snake animation](https://github.com/sentonelucas/sentonelucas/blob/output/github-contribution-grid-snake.svg)
