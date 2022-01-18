@@ -1,8 +1,8 @@
 ##  Hi! my name is Lucas
 
-- 🔭 I’m currently working as a data engineer
-- 🌱 Learning Kafka, Databricks, scala
-- 📫 Contact me by email or linkedin: lucas.sentone@gmail.com
+I’m currently working as a data engineer
+Learning Kafka, Databricks and scala
+Contact me by email: lucas.sentone@gmail.com
 
 <div align="center">
   <a href="https://github.com/sentonelucas">
